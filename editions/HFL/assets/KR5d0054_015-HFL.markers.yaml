@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR5d0054/HFL/v1/markers/15
+seq: 15
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5d0054_HFL_015-bkkkrnewl1}
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5d0054_HFL_015-bkkkrnewl2}
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5d0054_HFL_015-bkkkrnewl3}
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5d0054_HFL_015-bkkkrnewl4}
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5d0054_HFL_015-bkkkrnewl5}
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5d0054_HFL_015-bkkkrnewl6}
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5d0054_HFL_015-bkkkrnewl7}
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5d0054_HFL_015-bkkkrnewl8}
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5d0054_HFL_015-bkkkrnewl9}
+  back: []
+hash: sha256:a07771fb923a7a6d97cc1a2db17424cb6803e687cf900b390c1aec52397d9a04

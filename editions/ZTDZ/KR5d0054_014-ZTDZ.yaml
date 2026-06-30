@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5d0054/ZTDZ/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5d0054_SJB_016-210839a, image: sjb/21/210839a.png}
+metadata:
+  title: 山海經
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+  date: '2015-08-29 01:15:15.208389'
+  source:
+    repository: kanripo
+    path: KR5d0054/KR5d0054_014.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:6fd59aee8b9c380066ad6ae242366e7311307b592523a9e664070bdda542496b

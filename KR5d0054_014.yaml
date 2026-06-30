@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5d0054/krp/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 山海經
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 01:15:15.208389'
+  source:
+    repository: kanripo
+    path: KR5d0054/KR5d0054_014.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:97cf62d549688fbacc21a76acba714040187a0edb498bcd9f9b7731e7fe3da26

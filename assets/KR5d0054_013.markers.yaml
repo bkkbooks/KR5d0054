@@ -1,0 +1,981 @@
+canonical_identifier: bkk:krp/KR5d0054/bkk/v1/markers/13
+seq: 13
+markers:
+  front:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR5d0054_HFL_013-001a01}
+  - {type: variant, offset: 0, length: 10, content: 山海經卷之十三郭璞傳, SBCK: ''}
+  - {type: page-break, offset: 0, content: '', id: KR5d0054_SJB_013-210837a, image: sjb/21/210837a.png}
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR5d0054_HFL_013-001a02}
+  - {type: indent, offset: 0, content: 　　　　　, id: KR5d0054_krp_013-bkkind1}
+  - {type: indent, offset: 1, content: 　, id: KR5d0054_krp_013-bkkind2}
+  - {type: indent, offset: 2, content: 　, id: KR5d0054_krp_013-bkkind3}
+  - {type: 'kr:newline', offset: 3, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl2}
+  - {type: line-break, offset: 3, content: '', id: KR5d0054_HFL_013-001a03}
+  - {type: indent, offset: 3, content: 　　, id: KR5d0054_krp_013-bkkind4}
+  - {type: page-break, offset: 3, content: '', id: KR5d0054_SBCK_013-1a}
+  - {type: substitution, offset: 4, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
+  - {type: 'kr:newline', offset: 7, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl3}
+  - {type: line-break, offset: 7, content: '', id: KR5d0054_HFL_013-001a04}
+  - {type: variant, offset: 7, length: 0, content: '', SBCK: 第十三郭氏傳}
+  - {type: substitution, offset: 8, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
+  - {type: 'kr:newline', offset: 15, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl4}
+  - {type: line-break, offset: 15, content: '', id: KR5d0054_HFL_013-001a05}
+  - {type: substitution, offset: 15, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0038}}
+  - {type: 'kr:newline', offset: 21, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl5}
+  - {type: line-break, offset: 21, content: '', id: KR5d0054_HFL_013-001a06}
+  - {type: punctuation, offset: 29, content: (, id: KR5d0054_krp_013-bkkpn1}
+  - {type: variant, offset: 29, length: 0, content: '', SBCK: 敦}
+  - {type: punctuation, offset: 30, content: /, id: KR5d0054_krp_013-bkkpn2}
+  - {type: variant, offset: 30, length: 1, content: 敦, SBCK: ''}
+  - {type: punctuation, offset: 31, content: ), id: KR5d0054_krp_013-bkkpn3}
+  - {type: punctuation, offset: 33, content: (, id: KR5d0054_krp_013-bkkpn4}
+  - {type: variant, offset: 33, length: 3, content: 音唤或, SBCK: ''}
+  - {type: punctuation, offset: 36, content: /, id: KR5d0054_krp_013-bkkpn5}
+  - {type: variant, offset: 38, length: 1, content: 蝡, SBCK: 㬉音喚或}
+  - {type: substitution, offset: 38, original: 蝡, replacement: 蠕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1566}}
+  - {type: punctuation, offset: 39, content: ), id: KR5d0054_krp_013-bkkpn6}
+  - {type: 'kr:newline', offset: 42, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl6}
+  - {type: line-break, offset: 42, content: '', id: KR5d0054_HFL_013-001a07}
+  - {type: substitution, offset: 48, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
+  - {type: variant, offset: 52, length: 1, content: 爲, SBCK: 為}
+  - {type: substitution, offset: 52, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 59, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl7}
+  - {type: line-break, offset: 59, content: '', id: KR5d0054_HFL_013-001a08}
+  - {type: punctuation, offset: 67, content: (, id: KR5d0054_krp_013-bkkpn7}
+  - {type: variant, offset: 67, length: 0, content: '', SBCK: 為數十國地和温冝五榖}
+  - {type: punctuation, offset: 76, content: /, id: KR5d0054_krp_013-bkkpn8}
+  - {type: variant, offset: 77, length: 11, content: 爲數十國地和混宜五穀堅, SBCK: 竪}
+  - {type: substitution, offset: 77, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 85, content: ), id: KR5d0054_krp_013-bkkpn9}
+  - {type: 'kr:newline', offset: 85, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl8}
+  - {type: line-break, offset: 85, content: '', id: KR5d0054_HFL_013-001a09}
+  - {type: variant, offset: 91, length: 0, content: '', SBCK: 遥}
+  - {type: variant, offset: 92, length: 1, content: 遥, SBCK: ''}
+  - {type: substitution, offset: 92, original: 遥, replacement: 遙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4468}}
+  - {type: punctuation, offset: 93, content: (, id: KR5d0054_krp_013-bkkpn10}
+  - {type: variant, offset: 97, length: 14, content: 月支國多好馬美果有大尾羊如驢, SBCK: 馿}
+  - {type: punctuation, offset: 102, content: /, id: KR5d0054_krp_013-bkkpn11}
+  - {type: punctuation, offset: 111, content: ), id: KR5d0054_krp_013-bkkpn12}
+  - {type: 'kr:newline', offset: 111, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl9}
+  - {type: line-break, offset: 111, content: '', id: KR5d0054_HFL_013-001a10}
+  - {type: punctuation, offset: 111, content: (, id: KR5d0054_krp_013-bkkpn13}
+  - {type: punctuation, offset: 119, content: /, id: KR5d0054_krp_013-bkkpn14}
+  - {type: variant, offset: 123, length: 0, content: '', SBCK: 月支國多好馬羙果有大尾羊如云}
+  - {type: variant, offset: 125, length: 1, content: 云, SBCK: ''}
+  - {type: punctuation, offset: 126, content: ), id: KR5d0054_krp_013-bkkpn15}
+  - {type: 'kr:newline', offset: 126, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl10}
+  - {type: page-break, offset: 126, content: '', id: KR5d0054_HFL_013-001b, image: hfl/0676/0676-165.png}
+  - {type: 'kr:newline', offset: 126, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl11}
+  - {type: line-break, offset: 126, content: '', id: KR5d0054_HFL_013-001b01}
+  - {type: 'kr:newline', offset: 143, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl12}
+  - {type: line-break, offset: 143, content: '', id: KR5d0054_HFL_013-001b02}
+  - {type: page-break, offset: 146, content: '', id: KR5d0054_SBCK_013-1b}
+  - {type: 'kr:newline', offset: 160, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl13}
+  - {type: line-break, offset: 160, content: '', id: KR5d0054_HFL_013-001b03}
+  - {type: punctuation, offset: 164, content: (, id: KR5d0054_krp_013-bkkpn16}
+  - {type: variant, offset: 164, length: 0, content: '', SBCK: 志崑}
+  - {type: variant, offset: 166, length: 2, content: 志崑, SBCK: 有西王母祠也}
+  - {type: punctuation, offset: 173, content: /, id: KR5d0054_krp_013-bkkpn17}
+  - {type: variant, offset: 175, length: 6, content: 有西王母祠也, SBCK: ''}
+  - {type: punctuation, offset: 181, content: ), id: KR5d0054_krp_013-bkkpn18}
+  - {type: 'kr:newline', offset: 181, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl14}
+  - {type: line-break, offset: 181, content: '', id: KR5d0054_HFL_013-001b04}
+  - {type: variant, offset: 192, length: 1, content: 鼓, SBCK: 皷}
+  - {type: variant, offset: 196, length: 1, content: 吴, SBCK: 吳}
+  - {type: substitution, offset: 196, original: 吴, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3154}}
+  - {type: 'kr:newline', offset: 198, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl15}
+  - {type: line-break, offset: 198, content: '', id: KR5d0054_HFL_013-001b05}
+  - {type: punctuation, offset: 198, content: (, id: KR5d0054_krp_013-bkkpn19}
+  - {type: variant, offset: 198, length: 0, content: '', SBCK: 有堯冡}
+  - {type: variant, offset: 201, length: 3, content: 有堯冢, SBCK: 在雷澤華胥之而生伏羲}
+  - {type: variant, offset: 209, length: 1, content: 北, SBCK: 此}
+  - {type: punctuation, offset: 213, content: /, id: KR5d0054_krp_013-bkkpn20}
+  - {type: variant, offset: 216, length: 11, content: 在雷澤華胥履之而生伏羲, SBCK: ''}
+  - {type: punctuation, offset: 227, content: ), id: KR5d0054_krp_013-bkkpn21}
+  - {type: 'kr:newline', offset: 227, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl16}
+  - {type: line-break, offset: 227, content: '', id: KR5d0054_HFL_013-001b06}
+  - {type: punctuation, offset: 236, content: (, id: KR5d0054_krp_013-bkkpn22}
+  - {type: variant, offset: 236, length: 11, content: 今在東海朐縣界世傳此山, SBCK: ''}
+  - {type: punctuation, offset: 244, content: /, id: KR5d0054_krp_013-bkkpn23}
+  - {type: punctuation, offset: 252, content: ), id: KR5d0054_krp_013-bkkpn24}
+  - {type: 'kr:newline', offset: 252, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl17}
+  - {type: line-break, offset: 252, content: '', id: KR5d0054_HFL_013-001b07}
+  - {type: punctuation, offset: 252, content: (, id: KR5d0054_krp_013-bkkpn25}
+  - {type: punctuation, offset: 258, content: /, id: KR5d0054_krp_013-bkkpn26}
+  - {type: variant, offset: 258, length: 0, content: '', SBCK: 今在東海胊縣界世傳此山郁音欝}
+  - {type: variant, offset: 261, length: 3, content: 郁音鬱, SBCK: ''}
+  - {type: punctuation, offset: 264, content: ), id: KR5d0054_krp_013-bkkpn27}
+  - {type: 'kr:newline', offset: 264, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl18}
+  - {type: line-break, offset: 264, content: '', id: KR5d0054_HFL_013-001b08}
+  - {type: variant, offset: 265, length: 1, content: 瑘, SBCK: 琊}
+  - {type: punctuation, offset: 275, content: (, id: KR5d0054_krp_013-bkkpn28}
+  - {type: variant, offset: 275, length: 0, content: '', SBCK: 嶢特起狀如髙臺此即}
+  - {type: punctuation, offset: 281, content: /, id: KR5d0054_krp_013-bkkpn29}
+  - {type: variant, offset: 284, length: 1, content: 嶢, SBCK: 勾}
+  - {type: variant, offset: 285, length: 1, content: 特, SBCK: 踐}
+  - {type: variant, offset: 286, length: 1, content: 起, SBCK: 入}
+  - {type: punctuation, offset: 287, content: ), id: KR5d0054_krp_013-bkkpn30}
+  - {type: 'kr:newline', offset: 287, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl19}
+  - {type: line-break, offset: 287, content: '', id: KR5d0054_HFL_013-001b09}
+  - {type: punctuation, offset: 287, content: (, id: KR5d0054_krp_013-bkkpn31}
+  - {type: variant, offset: 287, length: 1, content: 狀, SBCK: 覇}
+  - {type: variant, offset: 288, length: 1, content: 如, SBCK: 中}
+  - {type: variant, offset: 289, length: 1, content: 高, SBCK: 國}
+  - {type: variant, offset: 290, length: 1, content: 臺, SBCK: 之}
+  - {type: variant, offset: 291, length: 1, content: 此, SBCK: 所}
+  - {type: variant, offset: 292, length: 1, content: 即, SBCK: 都}
+  - {type: punctuation, offset: 299, content: /, id: KR5d0054_krp_013-bkkpn32}
+  - {type: variant, offset: 302, length: 9, content: 勾踐入霸中國之所都, SBCK: ''}
+  - {type: punctuation, offset: 311, content: ), id: KR5d0054_krp_013-bkkpn33}
+  - {type: 'kr:newline', offset: 316, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl20}
+  - {type: line-break, offset: 316, content: '', id: KR5d0054_HFL_013-001b10}
+  - {type: 'kr:newline', offset: 320, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl21}
+  - {type: page-break, offset: 320, content: '', id: KR5d0054_HFL_013-002a, image: hfl/0676/0676-166.png}
+  - {type: 'kr:newline', offset: 320, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl22}
+  - {type: line-break, offset: 320, content: '', id: KR5d0054_HFL_013-002a01}
+  - {type: page-break, offset: 320, content: '', id: KR5d0054_SJB_013-210837b, image: sjb/21/210837b.png}
+  - {type: 'kr:newline', offset: 328, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl23}
+  - {type: line-break, offset: 328, content: '', id: KR5d0054_HFL_013-002a02}
+  - {type: page-break, offset: 328, content: '', id: KR5d0054_SBCK_013-2a}
+  - {type: punctuation, offset: 336, content: (, id: KR5d0054_krp_013-bkkpn34}
+  - {type: variant, offset: 336, length: 0, content: '', SBCK: 鳥名也}
+  - {type: punctuation, offset: 340, content: /, id: KR5d0054_krp_013-bkkpn35}
+  - {type: variant, offset: 340, length: 4, content: 鳥名也會, SBCK: 㑹}
+  - {type: punctuation, offset: 343, content: ), id: KR5d0054_krp_013-bkkpn36}
+  - {type: 'kr:newline', offset: 343, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl24}
+  - {type: line-break, offset: 343, content: '', id: KR5d0054_HFL_013-002a03}
+  - {type: variant, offset: 351, length: 1, content: 三, SBCK: 二}
+  - {type: 'kr:newline', offset: 354, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl25}
+  - {type: line-break, offset: 354, content: '', id: KR5d0054_HFL_013-002a04}
+  - {type: punctuation, offset: 359, content: (, id: KR5d0054_krp_013-bkkpn37}
+  - {type: variant, offset: 359, length: 15, content: 今江岀汶山郡升遷縣崑山東南經蜀, SBCK: ''}
+  - {type: substitution, offset: 361, original: 岀, replacement: 出, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3195}}
+  - {type: punctuation, offset: 371, content: /, id: KR5d0054_krp_013-bkkpn38}
+  - {type: variant, offset: 376, length: 1, content: 爲, SBCK: 為}
+  - {type: substitution, offset: 376, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 383, content: ), id: KR5d0054_krp_013-bkkpn39}
+  - {type: 'kr:newline', offset: 383, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl26}
+  - {type: line-break, offset: 383, content: '', id: KR5d0054_HFL_013-002a05}
+  - {type: punctuation, offset: 383, content: (, id: KR5d0054_krp_013-bkkpn40}
+  - {type: variant, offset: 389, length: 0, content: '', SBCK: 今江出汶山郡升遷縣岷山東南經蜀東北經淮南下邳至廣陵郡入海}
+  - {type: punctuation, offset: 399, content: /, id: KR5d0054_krp_013-bkkpn41}
+  - {type: variant, offset: 402, length: 13, content: 東北經淮南下邳至廣陵郡入海, SBCK: ''}
+  - {type: punctuation, offset: 415, content: ), id: KR5d0054_krp_013-bkkpn42}
+  - {type: 'kr:newline', offset: 416, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl27}
+  - {type: line-break, offset: 416, content: '', id: KR5d0054_HFL_013-002a06}
+  - {type: variant, offset: 425, length: 1, content: 高, SBCK: 髙}
+  - {type: 'kr:newline', offset: 433, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl28}
+  - {type: line-break, offset: 433, content: '', id: KR5d0054_HFL_013-002a07}
+  - {type: punctuation, offset: 447, content: (, id: KR5d0054_krp_013-bkkpn43}
+  - {type: variant, offset: 447, length: 10, content: 按地理志浙江出新安黟, SBCK: ''}
+  - {type: punctuation, offset: 450, content: /, id: KR5d0054_krp_013-bkkpn44}
+  - {type: punctuation, offset: 453, content: ), id: KR5d0054_krp_013-bkkpn45}
+  - {type: 'kr:newline', offset: 453, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl29}
+  - {type: line-break, offset: 453, content: '', id: KR5d0054_HFL_013-002a08}
+  - {type: punctuation, offset: 453, content: (, id: KR5d0054_krp_013-bkkpn46}
+  - {type: punctuation, offset: 466, content: /, id: KR5d0054_krp_013-bkkpn47}
+  - {type: variant, offset: 467, length: 0, content: '', SBCK: 按地里志浙江出新安黟歙也浙音折}
+  - {type: variant, offset: 473, length: 5, content: 歙也浙音折, SBCK: ''}
+  - {type: punctuation, offset: 478, content: ), id: KR5d0054_krp_013-bkkpn48}
+  - {type: 'kr:newline', offset: 482, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl30}
+  - {type: line-break, offset: 482, content: '', id: KR5d0054_HFL_013-002a09}
+  - {type: punctuation, offset: 487, content: (, id: KR5d0054_krp_013-bkkpn49}
+  - {type: variant, offset: 487, length: 0, content: '', SBCK: 今為永興縣}
+  - {type: variant, offset: 490, length: 1, content: 屬, SBCK: 属}
+  - {type: variant, offset: 491, length: 1, content: 會, SBCK: 㑹}
+  - {type: punctuation, offset: 493, content: /, id: KR5d0054_krp_013-bkkpn50}
+  - {type: variant, offset: 493, length: 5, content: 今爲永興縣, SBCK: ''}
+  - {type: substitution, offset: 494, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 498, content: ), id: KR5d0054_krp_013-bkkpn51}
+  - {type: 'kr:newline', offset: 498, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl31}
+  - {type: line-break, offset: 498, content: '', id: KR5d0054_HFL_013-002a10}
+  - {type: punctuation, offset: 510, content: (, id: KR5d0054_krp_013-bkkpn52}
+  - {type: variant, offset: 510, length: 0, content: '', SBCK: 在尋陽彭澤縣}
+  - {type: punctuation, offset: 515, content: /, id: KR5d0054_krp_013-bkkpn53}
+  - {type: variant, offset: 516, length: 6, content: 在尋陽彭澤縣, SBCK: ''}
+  - {type: punctuation, offset: 520, content: ), id: KR5d0054_krp_013-bkkpn54}
+  - {type: 'kr:newline', offset: 520, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl32}
+  - {type: page-break, offset: 520, content: '', id: KR5d0054_HFL_013-002b, image: hfl/0676/0676-167.png}
+  - {type: 'kr:newline', offset: 520, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl33}
+  - {type: line-break, offset: 520, content: '', id: KR5d0054_HFL_013-002b01}
+  - {type: punctuation, offset: 520, content: (, id: KR5d0054_krp_013-bkkpn55}
+  - {type: punctuation, offset: 521, content: /, id: KR5d0054_krp_013-bkkpn56}
+  - {type: punctuation, offset: 522, content: ), id: KR5d0054_krp_013-bkkpn57}
+  - {type: 'kr:newline', offset: 527, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl34}
+  - {type: line-break, offset: 527, content: '', id: KR5d0054_HFL_013-002b02}
+  - {type: page-break, offset: 527, content: '', id: KR5d0054_SBCK_013-2b}
+  - {type: variant, offset: 529, length: 1, content: 出, SBCK: 岀}
+  - {type: 'kr:newline', offset: 544, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl35}
+  - {type: line-break, offset: 544, content: '', id: KR5d0054_HFL_013-002b03}
+  - {type: punctuation, offset: 546, content: (, id: KR5d0054_krp_013-bkkpn58}
+  - {type: variant, offset: 546, length: 0, content: '', SBCK: 淮}
+  - {type: variant, offset: 547, length: 1, content: 淮, SBCK: 南譙國下邳至廣陵縣入海朝陽縣今属新野}
+  - {type: variant, offset: 549, length: 1, content: 出, SBCK: 岀}
+  - {type: substitution, offset: 556, original: 栢, replacement: 柏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0685}}
+  - {type: punctuation, offset: 561, content: /, id: KR5d0054_krp_013-bkkpn59}
+  - {type: variant, offset: 567, length: 18, content: 南譙國下邳至廣陵縣入海朝陽縣今屬新野, SBCK: ''}
+  - {type: punctuation, offset: 576, content: ), id: KR5d0054_krp_013-bkkpn60}
+  - {type: 'kr:newline', offset: 576, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl36}
+  - {type: line-break, offset: 576, content: '', id: KR5d0054_HFL_013-002b04}
+  - {type: punctuation, offset: 576, content: (, id: KR5d0054_krp_013-bkkpn61}
+  - {type: punctuation, offset: 581, content: /, id: KR5d0054_krp_013-bkkpn62}
+  - {type: punctuation, offset: 585, content: ), id: KR5d0054_krp_013-bkkpn63}
+  - {type: 'kr:newline', offset: 585, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl37}
+  - {type: line-break, offset: 585, content: '', id: KR5d0054_HFL_013-002b05}
+  - {type: variant, offset: 587, length: 1, content: 出, SBCK: 岀}
+  - {type: punctuation, offset: 596, content: (, id: KR5d0054_krp_013-bkkpn64}
+  - {type: variant, offset: 596, length: 0, content: '', SBCK: 營道縣陽湖山入江}
+  - {type: variant, offset: 597, length: 1, content: 繞, SBCK: 統}
+  - {type: punctuation, offset: 602, content: /, id: KR5d0054_krp_013-bkkpn65}
+  - {type: variant, offset: 602, length: 1, content: 出, SBCK: 岀}
+  - {type: variant, offset: 605, length: 8, content: 營道縣陽朔山入江, SBCK: ''}
+  - {type: punctuation, offset: 608, content: ), id: KR5d0054_krp_013-bkkpn66}
+  - {type: 'kr:newline', offset: 608, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl38}
+  - {type: line-break, offset: 608, content: '', id: KR5d0054_HFL_013-002b06}
+  - {type: punctuation, offset: 608, content: (, id: KR5d0054_krp_013-bkkpn67}
+  - {type: punctuation, offset: 611, content: /, id: KR5d0054_krp_013-bkkpn68}
+  - {type: punctuation, offset: 613, content: ), id: KR5d0054_krp_013-bkkpn69}
+  - {type: punctuation, offset: 617, content: (, id: KR5d0054_krp_013-bkkpn70}
+  - {type: variant, offset: 617, length: 0, content: '', SBCK: 中有包山下有洞庭穴道潜行水底云無}
+  - {type: punctuation, offset: 627, content: /, id: KR5d0054_krp_013-bkkpn71}
+  - {type: substitution, offset: 628, original: 吴, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3154}}
+  - {type: variant, offset: 633, length: 16, content: 中有包山下有洞庭穴道潜行水底云無, SBCK: 為地脉}
+  - {type: punctuation, offset: 637, content: ), id: KR5d0054_krp_013-bkkpn72}
+  - {type: 'kr:newline', offset: 637, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl39}
+  - {type: line-break, offset: 637, content: '', id: KR5d0054_HFL_013-002b07}
+  - {type: punctuation, offset: 637, content: (, id: KR5d0054_krp_013-bkkpn73}
+  - {type: punctuation, offset: 647, content: /, id: KR5d0054_krp_013-bkkpn74}
+  - {type: variant, offset: 653, length: 3, content: 爲地脉, SBCK: ''}
+  - {type: substitution, offset: 653, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 656, content: ), id: KR5d0054_krp_013-bkkpn75}
+  - {type: 'kr:newline', offset: 662, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl40}
+  - {type: line-break, offset: 662, content: '', id: KR5d0054_HFL_013-002b08}
+  - {type: punctuation, offset: 669, content: (, id: KR5d0054_krp_013-bkkpn76}
+  - {type: variant, offset: 669, length: 13, content: 書曰嶓冢導漾東流爲漢案水經, SBCK: ''}
+  - {type: substitution, offset: 677, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 679, content: /, id: KR5d0054_krp_013-bkkpn77}
+  - {type: punctuation, offset: 689, content: ), id: KR5d0054_krp_013-bkkpn78}
+  - {type: 'kr:newline', offset: 689, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl41}
+  - {type: line-break, offset: 689, content: '', id: KR5d0054_HFL_013-002b09}
+  - {type: punctuation, offset: 689, content: (, id: KR5d0054_krp_013-bkkpn79}
+  - {type: variant, offset: 695, length: 0, content: '', SBCK: 書曰嶓冡導漾東流為漢案水經縣入江别為沔水又為滄浪之水}
+  - {type: punctuation, offset: 706, content: /, id: KR5d0054_krp_013-bkkpn80}
+  - {type: variant, offset: 709, length: 13, content: 縣入江别爲沔水又爲滄浪之水, SBCK: ''}
+  - {type: substitution, offset: 713, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: substitution, offset: 717, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 722, content: ), id: KR5d0054_krp_013-bkkpn81}
+  - {type: 'kr:newline', offset: 722, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl42}
+  - {type: line-break, offset: 722, content: '', id: KR5d0054_HFL_013-002b10}
+  - {type: punctuation, offset: 737, content: (, id: KR5d0054_krp_013-bkkpn82}
+  - {type: variant, offset: 737, length: 0, content: '', SBCK: 衛守山下}
+  - {type: punctuation, offset: 739, content: /, id: KR5d0054_krp_013-bkkpn83}
+  - {type: punctuation, offset: 741, content: ), id: KR5d0054_krp_013-bkkpn84}
+  - {type: 'kr:newline', offset: 741, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl43}
+  - {type: page-break, offset: 741, content: '', id: KR5d0054_HFL_013-003a, image: hfl/0676/0676-168.png}
+  - {type: 'kr:newline', offset: 741, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl44}
+  - {type: line-break, offset: 741, content: '', id: KR5d0054_HFL_013-003a01}
+  - {type: punctuation, offset: 741, content: (, id: KR5d0054_krp_013-bkkpn85}
+  - {type: variant, offset: 741, length: 4, content: 衛守山下, SBCK: ''}
+  - {type: page-break, offset: 741, content: '', id: KR5d0054_SJB_013-210837c, image: sjb/21/210837c.png}
+  - {type: punctuation, offset: 743, content: /, id: KR5d0054_krp_013-bkkpn86}
+  - {type: punctuation, offset: 745, content: ), id: KR5d0054_krp_013-bkkpn87}
+  - {type: 'kr:newline', offset: 745, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl45}
+  - {type: line-break, offset: 745, content: '', id: KR5d0054_HFL_013-003a02}
+  - {type: punctuation, offset: 756, content: (, id: KR5d0054_krp_013-bkkpn88}
+  - {type: variant, offset: 756, length: 0, content: '', SBCK: 屬朱提}
+  - {type: punctuation, offset: 759, content: /, id: KR5d0054_krp_013-bkkpn89}
+  - {type: variant, offset: 759, length: 3, content: 屬朱提, SBCK: ''}
+  - {type: punctuation, offset: 762, content: ), id: KR5d0054_krp_013-bkkpn90}
+  - {type: 'kr:newline', offset: 762, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl46}
+  - {type: line-break, offset: 762, content: '', id: KR5d0054_HFL_013-003a03}
+  - {type: page-break, offset: 762, content: '', id: KR5d0054_SBCK_013-3a}
+  - {type: substitution, offset: 762, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4515}}
+  - {type: 'kr:newline', offset: 779, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl47}
+  - {type: line-break, offset: 779, content: '', id: KR5d0054_HFL_013-003a04}
+  - {type: punctuation, offset: 779, content: (, id: KR5d0054_krp_013-bkkpn91}
+  - {type: variant, offset: 779, length: 0, content: '', SBCK: 在京兆}
+  - {type: substitution, offset: 780, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4515}}
+  - {type: variant, offset: 782, length: 3, content: 在京兆, SBCK: 臨汾縣属平陽}
+  - {type: punctuation, offset: 789, content: /, id: KR5d0054_krp_013-bkkpn92}
+  - {type: substitution, offset: 790, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4515}}
+  - {type: variant, offset: 792, length: 7, content: 臨分縣屬平陽潁, SBCK: 頴}
+  - {type: punctuation, offset: 798, content: ), id: KR5d0054_krp_013-bkkpn93}
+  - {type: 'kr:newline', offset: 798, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl48}
+  - {type: line-break, offset: 798, content: '', id: KR5d0054_HFL_013-003a05}
+  - {type: 'kr:newline', offset: 815, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl49}
+  - {type: line-break, offset: 815, content: '', id: KR5d0054_HFL_013-003a06}
+  - {type: punctuation, offset: 815, content: (, id: KR5d0054_krp_013-bkkpn94}
+  - {type: variant, offset: 815, length: 3, content: 今潁水, SBCK: ''}
+  - {type: variant, offset: 821, length: 14, content: 陽城縣乾山東南經潁川汝隂至淮, SBCK: 今頴水}
+  - {type: punctuation, offset: 832, content: /, id: KR5d0054_krp_013-bkkpn95}
+  - {type: variant, offset: 845, length: 1, content: 屬, SBCK: 属}
+  - {type: variant, offset: 846, length: 1, content: 潁, SBCK: 頴}
+  - {type: punctuation, offset: 848, content: ), id: KR5d0054_krp_013-bkkpn96}
+  - {type: 'kr:newline', offset: 848, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl50}
+  - {type: line-break, offset: 848, content: '', id: KR5d0054_HFL_013-003a07}
+  - {type: variant, offset: 848, length: 0, content: '', SBCK: 陽城縣乾山東南經頴川汝隂至淮}
+  - {type: punctuation, offset: 852, content: (, id: KR5d0054_krp_013-bkkpn97}
+  - {type: variant, offset: 852, length: 3, content: 縣屬河, SBCK: ''}
+  - {type: punctuation, offset: 855, content: /, id: KR5d0054_krp_013-bkkpn98}
+  - {type: variant, offset: 857, length: 1, content: 鉤, SBCK: 鈎縣属河}
+  - {type: punctuation, offset: 858, content: ), id: KR5d0054_krp_013-bkkpn99}
+  - {type: 'kr:newline', offset: 858, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl51}
+  - {type: line-break, offset: 858, content: '', id: KR5d0054_HFL_013-003a08}
+  - {type: variant, offset: 867, length: 1, content: 鄉, SBCK: 郷}
+  - {type: 'kr:newline', offset: 875, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl52}
+  - {type: line-break, offset: 875, content: '', id: KR5d0054_HFL_013-003a09}
+  - {type: punctuation, offset: 875, content: (, id: KR5d0054_krp_013-bkkpn100}
+  - {type: variant, offset: 875, length: 0, content: '', SBCK: 出南陽}
+  - {type: variant, offset: 878, length: 1, content: 出, SBCK: 城頴川汝}
+  - {type: variant, offset: 880, length: 1, content: 陽, SBCK: 至汝隂褒信縣入淮淮極地名}
+  - {type: punctuation, offset: 892, content: /, id: KR5d0054_krp_013-bkkpn101}
+  - {type: variant, offset: 898, length: 17, content: 城潁川汝南至汝隂褒信縣入淮淮極地名, SBCK: ''}
+  - {type: punctuation, offset: 909, content: ), id: KR5d0054_krp_013-bkkpn102}
+  - {type: 'kr:newline', offset: 909, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl53}
+  - {type: line-break, offset: 909, content: '', id: KR5d0054_HFL_013-003a10}
+  - {type: punctuation, offset: 909, content: (, id: KR5d0054_krp_013-bkkpn103}
+  - {type: punctuation, offset: 912, content: /, id: KR5d0054_krp_013-bkkpn104}
+  - {type: punctuation, offset: 915, content: ), id: KR5d0054_krp_013-bkkpn105}
+  - {type: punctuation, offset: 922, content: (, id: KR5d0054_krp_013-bkkpn106}
+  - {type: variant, offset: 922, length: 0, content: '', SBCK: 属弋陽}
+  - {type: punctuation, offset: 925, content: /, id: KR5d0054_krp_013-bkkpn107}
+  - {type: variant, offset: 925, length: 3, content: 屬弋陽, SBCK: ''}
+  - {type: punctuation, offset: 928, content: ), id: KR5d0054_krp_013-bkkpn108}
+  - {type: 'kr:newline', offset: 928, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl54}
+  - {type: page-break, offset: 928, content: '', id: KR5d0054_HFL_013-003b, image: hfl/0676/0676-169.png}
+  - {type: 'kr:newline', offset: 928, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl55}
+  - {type: line-break, offset: 928, content: '', id: KR5d0054_HFL_013-003b01}
+  - {type: variant, offset: 938, length: 1, content: 郅, SBCK: 致}
+  - {type: punctuation, offset: 942, content: (, id: KR5d0054_krp_013-bkkpn109}
+  - {type: variant, offset: 942, length: 0, content: '', SBCK: 郅音桎}
+  - {type: punctuation, offset: 945, content: /, id: KR5d0054_krp_013-bkkpn110}
+  - {type: variant, offset: 946, length: 3, content: 郅音桎, SBCK: ''}
+  - {type: punctuation, offset: 948, content: ), id: KR5d0054_krp_013-bkkpn111}
+  - {type: 'kr:newline', offset: 948, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl56}
+  - {type: line-break, offset: 948, content: '', id: KR5d0054_HFL_013-003b02}
+  - {type: punctuation, offset: 948, content: (, id: KR5d0054_krp_013-bkkpn112}
+  - {type: punctuation, offset: 949, content: ), id: KR5d0054_krp_013-bkkpn113}
+  - {type: variant, offset: 952, length: 1, content: 戲, SBCK: 戯}
+  - {type: punctuation, offset: 954, content: (, id: KR5d0054_krp_013-bkkpn114}
+  - {type: variant, offset: 954, length: 17, content: 今涇水出安定朝那縣西开頭山東南經新, SBCK: ''}
+  - {type: punctuation, offset: 965, content: /, id: KR5d0054_krp_013-bkkpn115}
+  - {type: punctuation, offset: 976, content: ), id: KR5d0054_krp_013-bkkpn116}
+  - {type: 'kr:newline', offset: 976, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl57}
+  - {type: line-break, offset: 976, content: '', id: KR5d0054_HFL_013-003b03}
+  - {type: punctuation, offset: 976, content: (, id: KR5d0054_krp_013-bkkpn117}
+  - {type: variant, offset: 982, length: 1, content: 戲, SBCK: 戯}
+  - {type: punctuation, offset: 983, content: /, id: KR5d0054_krp_013-bkkpn118}
+  - {type: variant, offset: 988, length: 0, content: '', SBCK: 今涇水出安定朝那}
+  - {type: variant, offset: 989, length: 0, content: '', SBCK: 西笄頭山東南經新}
+  - {type: page-break, offset: 989, content: '', id: KR5d0054_SBCK_013-3b}
+  - {type: punctuation, offset: 990, content: ), id: KR5d0054_krp_013-bkkpn119}
+  - {type: 'kr:newline', offset: 990, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl58}
+  - {type: line-break, offset: 990, content: '', id: KR5d0054_HFL_013-003b04}
+  - {type: variant, offset: 990, length: 0, content: '', SBCK: 縣}
+  - {type: variant, offset: 994, length: 1, content: 鼠, SBCK: 䑕}
+  - {type: punctuation, offset: 1005, content: (, id: KR5d0054_krp_013-bkkpn120}
+  - {type: variant, offset: 1005, length: 0, content: '', SBCK: 今在隴西首}
+  - {type: punctuation, offset: 1007, content: /, id: KR5d0054_krp_013-bkkpn121}
+  - {type: punctuation, offset: 1009, content: ), id: KR5d0054_krp_013-bkkpn122}
+  - {type: 'kr:newline', offset: 1009, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl59}
+  - {type: line-break, offset: 1009, content: '', id: KR5d0054_HFL_013-003b05}
+  - {type: punctuation, offset: 1009, content: (, id: KR5d0054_krp_013-bkkpn123}
+  - {type: variant, offset: 1010, length: 5, content: 今在隴西首, SBCK: 扶風始平京兆弘農華隂縣入河}
+  - {type: punctuation, offset: 1026, content: /, id: KR5d0054_krp_013-bkkpn124}
+  - {type: variant, offset: 1029, length: 13, content: 扶風始平京兆引農華隂縣入河, SBCK: ''}
+  - {type: punctuation, offset: 1042, content: ), id: KR5d0054_krp_013-bkkpn125}
+  - {type: 'kr:newline', offset: 1042, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl60}
+  - {type: line-break, offset: 1042, content: '', id: KR5d0054_HFL_013-003b06}
+  - {type: punctuation, offset: 1051, content: (, id: KR5d0054_krp_013-bkkpn126}
+  - {type: variant, offset: 1051, length: 12, content: 色微白濁今在梓潼白水縣源, SBCK: 緑}
+  - {type: punctuation, offset: 1059, content: /, id: KR5d0054_krp_013-bkkpn127}
+  - {type: punctuation, offset: 1067, content: ), id: KR5d0054_krp_013-bkkpn128}
+  - {type: 'kr:newline', offset: 1067, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl61}
+  - {type: line-break, offset: 1067, content: '', id: KR5d0054_HFL_013-003b07}
+  - {type: punctuation, offset: 1067, content: (, id: KR5d0054_krp_013-bkkpn129}
+  - {type: variant, offset: 1073, length: 0, content: '', SBCK: 色㣲白濁今在梓童白水縣至漢夀縣入潜}
+  - {type: punctuation, offset: 1077, content: /, id: KR5d0054_krp_013-bkkpn130}
+  - {type: variant, offset: 1080, length: 6, content: 至漢壽縣入潜, SBCK: ''}
+  - {type: punctuation, offset: 1086, content: ), id: KR5d0054_krp_013-bkkpn131}
+  - {type: punctuation, offset: 1091, content: (, id: KR5d0054_krp_013-bkkpn132}
+  - {type: variant, offset: 1091, length: 0, content: '', SBCK: 属巴郡}
+  - {type: punctuation, offset: 1093, content: /, id: KR5d0054_krp_013-bkkpn133}
+  - {type: variant, offset: 1094, length: 3, content: 屬巴郡, SBCK: ''}
+  - {type: punctuation, offset: 1095, content: ), id: KR5d0054_krp_013-bkkpn134}
+  - {type: 'kr:newline', offset: 1095, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl62}
+  - {type: line-break, offset: 1095, content: '', id: KR5d0054_HFL_013-003b08}
+  - {type: punctuation, offset: 1095, content: (, id: KR5d0054_krp_013-bkkpn135}
+  - {type: punctuation, offset: 1096, content: /, id: KR5d0054_krp_013-bkkpn136}
+  - {type: punctuation, offset: 1097, content: ), id: KR5d0054_krp_013-bkkpn137}
+  - {type: 'kr:newline', offset: 1097, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl63}
+  - {type: line-break, offset: 1097, content: '', id: KR5d0054_HFL_013-003b09}
+  - {type: variant, offset: 1099, length: 0, content: '', SBCK: 山}
+  - {type: variant, offset: 1100, length: 1, content: 象, SBCK: ''}
+  - {type: variant, offset: 1104, length: 1, content: 之, SBCK: ''}
+  - {type: punctuation, offset: 1106, content: (, id: KR5d0054_krp_013-bkkpn138}
+  - {type: variant, offset: 1106, length: 0, content: '', SBCK: 縣今属武陵音潯}
+  - {type: punctuation, offset: 1114, content: /, id: KR5d0054_krp_013-bkkpn139}
+  - {type: variant, offset: 1114, length: 7, content: 縣今屬武陵音淫, SBCK: ''}
+  - {type: punctuation, offset: 1121, content: ), id: KR5d0054_krp_013-bkkpn140}
+  - {type: 'kr:newline', offset: 1121, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl64}
+  - {type: line-break, offset: 1121, content: '', id: KR5d0054_HFL_013-003b10}
+  - {type: variant, offset: 1127, length: 1, content: 隽, SBCK: 雋}
+  - {type: punctuation, offset: 1129, content: (, id: KR5d0054_krp_013-bkkpn141}
+  - {type: variant, offset: 1129, length: 6, content: 下隽縣今屬長, SBCK: ''}
+  - {type: punctuation, offset: 1135, content: /, id: KR5d0054_krp_013-bkkpn142}
+  - {type: punctuation, offset: 1140, content: ), id: KR5d0054_krp_013-bkkpn143}
+  - {type: variant, offset: 1140, length: 0, content: '', SBCK: 下雋縣今属長}
+  - {type: 'kr:newline', offset: 1143, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl65}
+  - {type: page-break, offset: 1143, content: '', id: KR5d0054_HFL_013-004a, image: hfl/0676/0676-170.png}
+  - {type: 'kr:newline', offset: 1143, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl66}
+  - {type: line-break, offset: 1143, content: '', id: KR5d0054_HFL_013-004a01}
+  - {type: page-break, offset: 1143, content: '', id: KR5d0054_SJB_013-210838a, image: sjb/21/210838a.png}
+  - {type: punctuation, offset: 1144, content: (, id: KR5d0054_krp_013-bkkpn144}
+  - {type: variant, offset: 1144, length: 0, content: '', SBCK: 出牂牁且蘭}
+  - {type: variant, offset: 1149, length: 18, content: 出䍧牱具蘭縣又東北至鐔城縣爲沅水又東, SBCK: ''}
+  - {type: substitution, offset: 1150, original: 䍧, replacement: 牂, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4079}}
+  - {type: punctuation, offset: 1160, content: /, id: KR5d0054_krp_013-bkkpn145}
+  - {type: substitution, offset: 1162, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 1176, content: ), id: KR5d0054_krp_013-bkkpn146}
+  - {type: 'kr:newline', offset: 1176, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl67}
+  - {type: line-break, offset: 1176, content: '', id: KR5d0054_HFL_013-004a02}
+  - {type: punctuation, offset: 1176, content: (, id: KR5d0054_krp_013-bkkpn147}
+  - {type: punctuation, offset: 1178, content: /, id: KR5d0054_krp_013-bkkpn148}
+  - {type: variant, offset: 1178, length: 1, content: 隽, SBCK: 雋}
+  - {type: punctuation, offset: 1180, content: ), id: KR5d0054_krp_013-bkkpn149}
+  - {type: variant, offset: 1180, length: 1, content: 贛, SBCK: 縣又東北至鐔城縣為沅水又東贑}
+  - {type: punctuation, offset: 1187, content: (, id: KR5d0054_krp_013-bkkpn150}
+  - {type: variant, offset: 1187, length: 7, content: 今贛水出南康南, SBCK: ''}
+  - {type: punctuation, offset: 1194, content: /, id: KR5d0054_krp_013-bkkpn151}
+  - {type: punctuation, offset: 1201, content: ), id: KR5d0054_krp_013-bkkpn152}
+  - {type: variant, offset: 1201, length: 0, content: '', SBCK: 今贑水出南康南}
+  - {type: 'kr:newline', offset: 1202, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl68}
+  - {type: line-break, offset: 1202, content: '', id: KR5d0054_HFL_013-004a03}
+  - {type: page-break, offset: 1207, content: '', id: KR5d0054_SBCK_013-4a}
+  - {type: 'kr:newline', offset: 1209, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl69}
+  - {type: line-break, offset: 1209, content: '', id: KR5d0054_HFL_013-004a04}
+  - {type: variant, offset: 1212, length: 1, content: 吴, SBCK: 吳}
+  - {type: substitution, offset: 1212, original: 吴, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3154}}
+  - {type: 'kr:newline', offset: 1226, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl70}
+  - {type: line-break, offset: 1226, content: '', id: KR5d0054_HFL_013-004a05}
+  - {type: punctuation, offset: 1233, content: (, id: KR5d0054_krp_013-bkkpn153}
+  - {type: variant, offset: 1233, length: 14, content: 今泗水出魯國卞縣西南至高平湖, SBCK: ''}
+  - {type: punctuation, offset: 1243, content: /, id: KR5d0054_krp_013-bkkpn154}
+  - {type: punctuation, offset: 1253, content: ), id: KR5d0054_krp_013-bkkpn155}
+  - {type: 'kr:newline', offset: 1253, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl71}
+  - {type: line-break, offset: 1253, content: '', id: KR5d0054_HFL_013-004a06}
+  - {type: punctuation, offset: 1253, content: (, id: KR5d0054_krp_013-bkkpn156}
+  - {type: punctuation, offset: 1260, content: /, id: KR5d0054_krp_013-bkkpn157}
+  - {type: variant, offset: 1261, length: 0, content: '', SBCK: 今泗水出魯國下縣西南至髙平胡入淮}
+  - {type: variant, offset: 1264, length: 2, content: 入淮, SBCK: ''}
+  - {type: punctuation, offset: 1266, content: ), id: KR5d0054_krp_013-bkkpn158}
+  - {type: 'kr:newline', offset: 1266, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl72}
+  - {type: line-break, offset: 1266, content: '', id: KR5d0054_HFL_013-004a07}
+  - {type: variant, offset: 1278, length: 1, content: 須, SBCK: 湏}
+  - {type: 'kr:newline', offset: 1282, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl73}
+  - {type: line-break, offset: 1282, content: '', id: KR5d0054_HFL_013-004a08}
+  - {type: variant, offset: 1286, length: 1, content: 晋, SBCK: ''}
+  - {type: punctuation, offset: 1289, content: (, id: KR5d0054_krp_013-bkkpn159}
+  - {type: variant, offset: 1289, length: 0, content: '', SBCK: 習之肄}
+  - {type: variant, offset: 1291, length: 3, content: 肄習之, SBCK: ''}
+  - {type: punctuation, offset: 1292, content: /, id: KR5d0054_krp_013-bkkpn160}
+  - {type: punctuation, offset: 1295, content: ), id: KR5d0054_krp_013-bkkpn161}
+  - {type: 'kr:newline', offset: 1302, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl74}
+  - {type: line-break, offset: 1302, content: '', id: KR5d0054_HFL_013-004a09}
+  - {type: punctuation, offset: 1304, content: (, id: KR5d0054_krp_013-bkkpn162}
+  - {type: variant, offset: 1304, length: 0, content: '', SBCK: 禺}
+  - {type: variant, offset: 1305, length: 6, content: 禺縣屬南海越, SBCK: ''}
+  - {type: punctuation, offset: 1310, content: /, id: KR5d0054_krp_013-bkkpn163}
+  - {type: punctuation, offset: 1315, content: ), id: KR5d0054_krp_013-bkkpn164}
+  - {type: 'kr:newline', offset: 1315, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl75}
+  - {type: line-break, offset: 1315, content: '', id: KR5d0054_HFL_013-004a10}
+  - {type: variant, offset: 1315, length: 0, content: '', SBCK: 縣属南海越}
+  - {type: punctuation, offset: 1323, content: (, id: KR5d0054_krp_013-bkkpn165}
+  - {type: variant, offset: 1323, length: 0, content: '', SBCK: 黄}
+  - {type: punctuation, offset: 1324, content: /, id: KR5d0054_krp_013-bkkpn166}
+  - {type: variant, offset: 1324, length: 1, content: 黄, SBCK: ''}
+  - {type: substitution, offset: 1324, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4545}}
+  - {type: punctuation, offset: 1325, content: ), id: KR5d0054_krp_013-bkkpn167}
+  - {type: 'kr:newline', offset: 1333, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl76}
+  - {type: page-break, offset: 1333, content: '', id: KR5d0054_HFL_013-004b, image: hfl/0676/0676-171.png}
+  - {type: 'kr:newline', offset: 1333, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl77}
+  - {type: line-break, offset: 1333, content: '', id: KR5d0054_HFL_013-004b01}
+  - {type: variant, offset: 1346, length: 1, content: 臯, SBCK: 皐}
+  - {type: punctuation, offset: 1349, content: (, id: KR5d0054_krp_013-bkkpn168}
+  - {type: variant, offset: 1349, length: 5, content: 書曰道洛自, SBCK: ''}
+  - {type: punctuation, offset: 1350, content: /, id: KR5d0054_krp_013-bkkpn169}
+  - {type: punctuation, offset: 1351, content: ), id: KR5d0054_krp_013-bkkpn170}
+  - {type: 'kr:newline', offset: 1351, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl78}
+  - {type: line-break, offset: 1351, content: '', id: KR5d0054_HFL_013-004b02}
+  - {type: punctuation, offset: 1351, content: (, id: KR5d0054_krp_013-bkkpn171}
+  - {type: variant, offset: 1359, length: 0, content: '', SBCK: 書云道}
+  - {type: variant, offset: 1360, length: 14, content: 水今出上洛冢領山東北經弘農至, SBCK: 自}
+  - {type: punctuation, offset: 1368, content: /, id: KR5d0054_krp_013-bkkpn172}
+  - {type: variant, offset: 1384, length: 1, content: 屬, SBCK: 属}
+  - {type: punctuation, offset: 1385, content: ), id: KR5d0054_krp_013-bkkpn173}
+  - {type: 'kr:newline', offset: 1385, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl79}
+  - {type: line-break, offset: 1385, content: '', id: KR5d0054_HFL_013-004b03}
+  - {type: punctuation, offset: 1385, content: (, id: KR5d0054_krp_013-bkkpn174}
+  - {type: punctuation, offset: 1387, content: /, id: KR5d0054_krp_013-bkkpn175}
+  - {type: punctuation, offset: 1388, content: ), id: KR5d0054_krp_013-bkkpn176}
+  - {type: 'kr:newline', offset: 1388, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl80}
+  - {type: line-break, offset: 1388, content: '', id: KR5d0054_HFL_013-004b04}
+  - {type: variant, offset: 1388, length: 0, content: '', SBCK: 洛水今出上洛冢嶺山東北經弘農至}
+  - {type: page-break, offset: 1388, content: '', id: KR5d0054_SBCK_013-4b}
+  - {type: punctuation, offset: 1394, content: (, id: KR5d0054_krp_013-bkkpn177}
+  - {type: variant, offset: 1394, length: 0, content: '', SBCK: 愈}
+  - {type: punctuation, offset: 1395, content: /, id: KR5d0054_krp_013-bkkpn178}
+  - {type: variant, offset: 1395, length: 1, content: 愈, SBCK: ''}
+  - {type: punctuation, offset: 1396, content: ), id: KR5d0054_krp_013-bkkpn179}
+  - {type: punctuation, offset: 1405, content: (, id: KR5d0054_krp_013-bkkpn180}
+  - {type: variant, offset: 1405, length: 0, content: '', SBCK: 太原陽}
+  - {type: punctuation, offset: 1406, content: /, id: KR5d0054_krp_013-bkkpn181}
+  - {type: punctuation, offset: 1407, content: ), id: KR5d0054_krp_013-bkkpn182}
+  - {type: 'kr:newline', offset: 1407, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl81}
+  - {type: line-break, offset: 1407, content: '', id: KR5d0054_HFL_013-004b05}
+  - {type: punctuation, offset: 1407, content: (, id: KR5d0054_krp_013-bkkpn183}
+  - {type: variant, offset: 1409, length: 19, content: 太原晋陽故汾陽縣東南經晋陽西南經西河平, SBCK: ''}
+  - {type: punctuation, offset: 1424, content: /, id: KR5d0054_krp_013-bkkpn184}
+  - {type: variant, offset: 1439, length: 1, content: 屬, SBCK: 属}
+  - {type: punctuation, offset: 1441, content: ), id: KR5d0054_krp_013-bkkpn185}
+  - {type: 'kr:newline', offset: 1441, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl82}
+  - {type: line-break, offset: 1441, content: '', id: KR5d0054_HFL_013-004b06}
+  - {type: punctuation, offset: 1441, content: (, id: KR5d0054_krp_013-bkkpn186}
+  - {type: punctuation, offset: 1442, content: ), id: KR5d0054_krp_013-bkkpn187}
+  - {type: 'kr:newline', offset: 1442, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl83}
+  - {type: line-break, offset: 1442, content: '', id: KR5d0054_HFL_013-004b07}
+  - {type: variant, offset: 1442, length: 0, content: '', SBCK: 故汾陽縣東南經陽西南經西河平}
+  - {type: punctuation, offset: 1457, content: (, id: KR5d0054_krp_013-bkkpn188}
+  - {type: variant, offset: 1457, length: 6, content: 懷縣屬河内懷, SBCK: ''}
+  - {type: punctuation, offset: 1459, content: /, id: KR5d0054_krp_013-bkkpn189}
+  - {type: punctuation, offset: 1461, content: ), id: KR5d0054_krp_013-bkkpn190}
+  - {type: 'kr:newline', offset: 1461, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl84}
+  - {type: line-break, offset: 1461, content: '', id: KR5d0054_HFL_013-004b08}
+  - {type: punctuation, offset: 1461, content: (, id: KR5d0054_krp_013-bkkpn191}
+  - {type: substitution, offset: 1461, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
+  - {type: substitution, offset: 1463, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
+  - {type: punctuation, offset: 1465, content: /, id: KR5d0054_krp_013-bkkpn192}
+  - {type: punctuation, offset: 1469, content: ), id: KR5d0054_krp_013-bkkpn193}
+  - {type: 'kr:newline', offset: 1469, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl85}
+  - {type: line-break, offset: 1469, content: '', id: KR5d0054_HFL_013-004b09}
+  - {type: variant, offset: 1469, length: 0, content: '', SBCK: 懷縣属河内河}
+  - {type: variant, offset: 1471, length: 1, content: 岀, SBCK: 出}
+  - {type: substitution, offset: 1471, original: 岀, replacement: 出, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3195}}
+  - {type: punctuation, offset: 1477, content: (, id: KR5d0054_krp_013-bkkpn194}
+  - {type: variant, offset: 1477, length: 0, content: '', SBCK: 㳟同}
+  - {type: punctuation, offset: 1479, content: /, id: KR5d0054_krp_013-bkkpn195}
+  - {type: variant, offset: 1479, length: 2, content: 恭同, SBCK: ''}
+  - {type: punctuation, offset: 1481, content: ), id: KR5d0054_krp_013-bkkpn196}
+  - {type: substitution, offset: 1482, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0038}}
+  - {type: punctuation, offset: 1485, content: (, id: KR5d0054_krp_013-bkkpn197}
+  - {type: variant, offset: 1485, length: 0, content: '', SBCK: 鹿今在髙平}
+  - {type: punctuation, offset: 1488, content: /, id: KR5d0054_krp_013-bkkpn198}
+  - {type: substitution, offset: 1490, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0038}}
+  - {type: punctuation, offset: 1491, content: ), id: KR5d0054_krp_013-bkkpn199}
+  - {type: 'kr:newline', offset: 1491, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl86}
+  - {type: line-break, offset: 1491, content: '', id: KR5d0054_HFL_013-004b10}
+  - {type: punctuation, offset: 1491, content: (, id: KR5d0054_krp_013-bkkpn200}
+  - {type: variant, offset: 1491, length: 5, content: 鹿今在高平, SBCK: ''}
+  - {type: punctuation, offset: 1494, content: /, id: KR5d0054_krp_013-bkkpn201}
+  - {type: punctuation, offset: 1496, content: ), id: KR5d0054_krp_013-bkkpn202}
+  - {type: punctuation, offset: 1505, content: (, id: KR5d0054_krp_013-bkkpn203}
+  - {type: variant, offset: 1505, length: 0, content: '', SBCK: 留至潛隂北東北至髙平東}
+  - {type: variant, offset: 1509, length: 1, content: 榮, SBCK: 滎}
+  - {type: punctuation, offset: 1510, content: /, id: KR5d0054_krp_013-bkkpn204}
+  - {type: punctuation, offset: 1515, content: ), id: KR5d0054_krp_013-bkkpn205}
+  - {type: 'kr:newline', offset: 1515, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl87}
+  - {type: page-break, offset: 1515, content: '', id: KR5d0054_HFL_013-005a, image: hfl/0676/0676-172.png}
+  - {type: 'kr:newline', offset: 1515, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl88}
+  - {type: line-break, offset: 1515, content: '', id: KR5d0054_HFL_013-005a01}
+  - {type: punctuation, offset: 1515, content: (, id: KR5d0054_krp_013-bkkpn206}
+  - {type: page-break, offset: 1515, content: '', id: KR5d0054_SJB_013-210838b, image: sjb/21/210838b.png}
+  - {type: variant, offset: 1516, length: 11, content: 留至潜隂北東北至高平東, SBCK: 又與水經違錯以為凡山川或有同名而異實或同}
+  - {type: punctuation, offset: 1532, content: /, id: KR5d0054_krp_013-bkkpn207}
+  - {type: variant, offset: 1547, length: 12, content: 又與水經違錯以爲凡山川或, SBCK: 代久逺古今變易語}
+  - {type: punctuation, offset: 1549, content: ), id: KR5d0054_krp_013-bkkpn208}
+  - {type: 'kr:newline', offset: 1549, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl89}
+  - {type: line-break, offset: 1549, content: '', id: KR5d0054_HFL_013-005a02}
+  - {type: punctuation, offset: 1549, content: (, id: KR5d0054_krp_013-bkkpn209}
+  - {type: substitution, offset: 1554, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: variant, offset: 1560, length: 0, content: '', SBCK: 楚夏名號不}
+  - {type: variant, offset: 1561, length: 6, content: 名而異實或同, SBCK: 未得詳也}
+  - {type: punctuation, offset: 1566, content: /, id: KR5d0054_krp_013-bkkpn210}
+  - {type: punctuation, offset: 1583, content: ), id: KR5d0054_krp_013-bkkpn211}
+  - {type: 'kr:newline', offset: 1583, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl90}
+  - {type: line-break, offset: 1583, content: '', id: KR5d0054_HFL_013-005a03}
+  - {type: punctuation, offset: 1583, content: (, id: KR5d0054_krp_013-bkkpn212}
+  - {type: variant, offset: 1586, length: 20, content: 歷代乆遠古今變易語有楚夏名號不同未得詳也, SBCK: 歴}
+  - {type: substitution, offset: 1588, original: 乆, replacement: 久, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3214}}
+  - {type: punctuation, offset: 1595, content: /, id: KR5d0054_krp_013-bkkpn213}
+  - {type: punctuation, offset: 1606, content: ), id: KR5d0054_krp_013-bkkpn214}
+  - {type: 'kr:newline', offset: 1606, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl91}
+  - {type: line-break, offset: 1606, content: '', id: KR5d0054_HFL_013-005a04}
+  - {type: variant, offset: 1608, length: 1, content: 岀, SBCK: 出}
+  - {type: substitution, offset: 1608, original: 岀, replacement: 出, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3195}}
+  - {type: variant, offset: 1610, length: 1, content: 臯, SBCK: 皐}
+  - {type: punctuation, offset: 1612, content: (, id: KR5d0054_krp_013-bkkpn215}
+  - {type: variant, offset: 1612, length: 5, content: 出塞外衛臯, SBCK: ''}
+  - {type: variant, offset: 1618, length: 10, content: 玄菟高句驪縣有潦山亦, SBCK: 小}
+  - {type: punctuation, offset: 1623, content: /, id: KR5d0054_krp_013-bkkpn216}
+  - {type: punctuation, offset: 1634, content: ), id: KR5d0054_krp_013-bkkpn217}
+  - {type: 'kr:newline', offset: 1634, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl92}
+  - {type: line-break, offset: 1634, content: '', id: KR5d0054_HFL_013-005a05}
+  - {type: punctuation, offset: 1634, content: (, id: KR5d0054_krp_013-bkkpn218}
+  - {type: punctuation, offset: 1637, content: /, id: KR5d0054_krp_013-bkkpn219}
+  - {type: punctuation, offset: 1639, content: ), id: KR5d0054_krp_013-bkkpn220}
+  - {type: variant, offset: 1639, length: 0, content: '', SBCK: 出塞外衛臯山玄莵髙句驪縣有潦}
+  - {type: punctuation, offset: 1647, content: (, id: KR5d0054_krp_013-bkkpn221}
+  - {type: variant, offset: 1647, length: 0, content: '', SBCK: 属潦東}
+  - {type: punctuation, offset: 1650, content: /, id: KR5d0054_krp_013-bkkpn222}
+  - {type: variant, offset: 1650, length: 3, content: 屬潦東, SBCK: ''}
+  - {type: punctuation, offset: 1653, content: ), id: KR5d0054_krp_013-bkkpn223}
+  - {type: 'kr:newline', offset: 1653, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl93}
+  - {type: line-break, offset: 1653, content: '', id: KR5d0054_HFL_013-005a06}
+  - {type: page-break, offset: 1653, content: '', id: KR5d0054_SBCK_013-5a}
+  - {type: substitution, offset: 1653, original: 虖, replacement: 呼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0515}}
+  - {type: variant, offset: 1654, length: 1, content: 池, SBCK: 沲}
+  - {type: variant, offset: 1657, length: 1, content: 晋, SBCK: ''}
+  - {type: 'kr:newline', offset: 1670, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl94}
+  - {type: line-break, offset: 1670, content: '', id: KR5d0054_HFL_013-005a07}
+  - {type: punctuation, offset: 1672, content: (, id: KR5d0054_krp_013-bkkpn224}
+  - {type: variant, offset: 1672, length: 0, content: '', SBCK: 河}
+  - {type: variant, offset: 1673, length: 1, content: 河, SBCK: 陽陽曲縣皆属太原}
+  - {type: punctuation, offset: 1682, content: /, id: KR5d0054_krp_013-bkkpn225}
+  - {type: variant, offset: 1683, length: 9, content: 晋陽陽曲縣晋屬太原, SBCK: ''}
+  - {type: punctuation, offset: 1692, content: ), id: KR5d0054_krp_013-bkkpn226}
+  - {type: 'kr:newline', offset: 1697, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl95}
+  - {type: line-break, offset: 1697, content: '', id: KR5d0054_HFL_013-005a08}
+  - {type: punctuation, offset: 1697, content: (, id: KR5d0054_krp_013-bkkpn227}
+  - {type: variant, offset: 1697, length: 0, content: '', SBCK: 郡名}
+  - {type: punctuation, offset: 1699, content: /, id: KR5d0054_krp_013-bkkpn228}
+  - {type: variant, offset: 1699, length: 2, content: 郡名, SBCK: ''}
+  - {type: punctuation, offset: 1701, content: ), id: KR5d0054_krp_013-bkkpn229}
+  - {type: punctuation, offset: 1715, content: (, id: KR5d0054_krp_013-bkkpn230}
+  - {type: variant, offset: 1715, length: 0, content: '', SBCK: 亦有漳水}
+  - {type: punctuation, offset: 1716, content: /, id: KR5d0054_krp_013-bkkpn231}
+  - {type: punctuation, offset: 1717, content: ), id: KR5d0054_krp_013-bkkpn232}
+  - {type: 'kr:newline', offset: 1717, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl96}
+  - {type: line-break, offset: 1717, content: '', id: KR5d0054_HFL_013-005a09}
+  - {type: punctuation, offset: 1717, content: (, id: KR5d0054_krp_013-bkkpn233}
+  - {type: variant, offset: 1720, length: 4, content: 亦有漳水, SBCK: ''}
+  - {type: punctuation, offset: 1721, content: /, id: KR5d0054_krp_013-bkkpn234}
+  - {type: punctuation, offset: 1724, content: ), id: KR5d0054_krp_013-bkkpn235}
+  - {type: 'kr:newline', offset: 1724, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl97}
+  - {type: line-break, offset: 1724, content: '', id: KR5d0054_HFL_013-005a10}
+  - {type: indent, offset: 1724, content: 　, id: KR5d0054_krp_013-bkkind5}
+  - {type: variant, offset: 1736, length: 1, content: 屬, SBCK: 属}
+  - {type: 'kr:newline', offset: 1740, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl98}
+  - {type: page-break, offset: 1740, content: '', id: KR5d0054_HFL_013-005b, image: hfl/0676/0676-173.png}
+  - {type: 'kr:newline', offset: 1740, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl99}
+  - {type: line-break, offset: 1740, content: '', id: KR5d0054_HFL_013-005b01}
+  - {type: indent, offset: 1740, content: 　, id: KR5d0054_krp_013-bkkind6}
+  - {type: substitution, offset: 1744, original: 禄, replacement: 祿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4474}}
+  - {type: substitution, offset: 1755, original: 禄, replacement: 祿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4474}}
+  - {type: 'kr:newline', offset: 1756, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl100}
+  - {type: line-break, offset: 1756, content: '', id: KR5d0054_HFL_013-005b02}
+  - {type: indent, offset: 1756, content: 　, id: KR5d0054_krp_013-bkkind7}
+  - {type: 'kr:newline', offset: 1763, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl101}
+  - {type: line-break, offset: 1763, content: '', id: KR5d0054_HFL_013-005b03}
+  - {type: indent, offset: 1763, content: 　　, id: KR5d0054_krp_013-bkkind8}
+  - {type: variant, offset: 1763, length: 171, content: 海内東經圖讚郁州南極之山越處東海不行而至不動而改維神所運物無常在韓鴈始鳩雷澤神琅瑘臺韓鴈始鳩在海之州雷澤之神鼓腹優游琅瑘嶕嶢邈若雲樓堅沙居繇埻端璽㬇國堅沙居繇埻端璽㬇沙漠之鄉絶地之館或羈于秦或賔于漢大江北江南江浙江廬淮湘漢濛温潁汝涇渭白沅贛泗鬱肄潢洛汾沁濟潦虖池漳水川瀆交錯涣瀾流帶通潜潤下經營華外殊出同歸混之東會山海經卷之十三卷十四十五原缺, SBCK: ''}
+  - {type: substitution, offset: 1764, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
+  - {type: 'kr:newline', offset: 1769, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl102}
+  - {type: line-break, offset: 1769, content: '', id: KR5d0054_HFL_013-005b04}
+  - {type: indent, offset: 1769, content: 　　　, id: KR5d0054_krp_013-bkkind9}
+  - {type: 'kr:newline', offset: 1771, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl103}
+  - {type: line-break, offset: 1771, content: '', id: KR5d0054_HFL_013-005b05}
+  - {type: 'kr:newline', offset: 1788, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl104}
+  - {type: line-break, offset: 1788, content: '', id: KR5d0054_HFL_013-005b06}
+  - {type: 'kr:newline', offset: 1795, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl105}
+  - {type: line-break, offset: 1795, content: '', id: KR5d0054_HFL_013-005b07}
+  - {type: indent, offset: 1795, content: 　　　, id: KR5d0054_krp_013-bkkind10}
+  - {type: 'kr:newline', offset: 1805, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl106}
+  - {type: line-break, offset: 1805, content: '', id: KR5d0054_HFL_013-005b08}
+  - {type: 'kr:newline', offset: 1822, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl107}
+  - {type: line-break, offset: 1822, content: '', id: KR5d0054_HFL_013-005b09}
+  - {type: 'kr:newline', offset: 1829, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl108}
+  - {type: line-break, offset: 1829, content: '', id: KR5d0054_HFL_013-005b10}
+  - {type: indent, offset: 1829, content: 　　　, id: KR5d0054_krp_013-bkkind11}
+  - {type: 'kr:newline', offset: 1838, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl109}
+  - {type: page-break, offset: 1838, content: '', id: KR5d0054_HFL_013-006a, image: hfl/0676/0676-174.png}
+  - {type: 'kr:newline', offset: 1838, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl110}
+  - {type: line-break, offset: 1838, content: '', id: KR5d0054_HFL_013-006a01}
+  - {type: page-break, offset: 1838, content: '', id: KR5d0054_SJB_013-210838c, image: sjb/21/210838c.png}
+  - {type: 'kr:newline', offset: 1855, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl111}
+  - {type: line-break, offset: 1855, content: '', id: KR5d0054_HFL_013-006a02}
+  - {type: 'kr:newline', offset: 1862, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl112}
+  - {type: line-break, offset: 1862, content: '', id: KR5d0054_HFL_013-006a03}
+  - {type: indent, offset: 1862, content: 　　　, id: KR5d0054_krp_013-bkkind12}
+  - {type: substitution, offset: 1875, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4515}}
+  - {type: 'kr:newline', offset: 1876, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl113}
+  - {type: line-break, offset: 1876, content: '', id: KR5d0054_HFL_013-006a04}
+  - {type: indent, offset: 1876, content: 　　　, id: KR5d0054_krp_013-bkkind13}
+  - {type: 'kr:newline', offset: 1890, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl114}
+  - {type: line-break, offset: 1890, content: '', id: KR5d0054_HFL_013-006a05}
+  - {type: indent, offset: 1890, content: 　　　, id: KR5d0054_krp_013-bkkind14}
+  - {type: substitution, offset: 1892, original: 虖, replacement: 呼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0515}}
+  - {type: 'kr:newline', offset: 1896, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl115}
+  - {type: line-break, offset: 1896, content: '', id: KR5d0054_HFL_013-006a06}
+  - {type: 'kr:newline', offset: 1913, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl116}
+  - {type: line-break, offset: 1913, content: '', id: KR5d0054_HFL_013-006a07}
+  - {type: 'kr:newline', offset: 1920, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl117}
+  - {type: 'kr:newline', offset: 1920, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl118}
+  - {type: 'kr:newline', offset: 1920, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl119}
+  - {type: line-break, offset: 1920, content: '', id: KR5d0054_HFL_013-006a08}
+  - {type: 'kr:newline', offset: 1927, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl120}
+  - {type: page-break, offset: 1927, content: '', id: KR5d0054_HFL_013-006b, image: hfl/0676/0676-175.png}
+  - {type: 'kr:newline', offset: 1927, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl121}
+  - {type: line-break, offset: 1927, content: '', id: KR5d0054_HFL_013-006b01}
+  - {type: indent, offset: 1927, content: 　　　　　　　　　　, id: KR5d0054_krp_013-bkkind15}
+  - {type: 'kr:newline', offset: 1934, content: '
+
+      ', id: KR5d0054_krp_013-bkkkrnewl122}
+  back: []
+hash: sha256:e270650da38800129aff41e545a8ac47da7c5c9da6207e253c8f9b2e97e3b91e
