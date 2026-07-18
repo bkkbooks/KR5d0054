@@ -365,6 +365,7 @@ markers:
   - {type: variant, offset: 916, length: 2, content: 録總, SBCK: 緫}
   - {type: punctuation, offset: 921, content: (, id: KR5d0054_krp_000-bkkpn1}
   - {type: variant, offset: 921, length: 0, content: '', SBCK: 十字緫五萬一千二百六十九字}
+  - {type: 'voice:problem', offset: 921, length: 0, id: KR5d0054_bkk_000-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 921}
   - {type: punctuation, offset: 929, content: /, id: KR5d0054_krp_000-bkkpn2}
   - {type: variant, offset: 935, length: 13, content: 十字總五萬一千二百六十九字, SBCK: ''}
   body:
@@ -382,6 +383,7 @@ markers:
       ', id: KR5d0054_krp_000-bkkkrnewl2}
   - {type: line-break, offset: 11, content: '', id: KR5d0054_HFL_000-004a03}
   - {type: indent, offset: 11, content: 　　　, id: KR5d0054_krp_000-bkkind2}
+  - {type: 'voice:problem', offset: 11, length: 0, id: KR5d0054_bkk_000-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 11 with no matching '('}
   - {type: punctuation, offset: 16, content: (, id: KR5d0054_krp_000-bkkpn5}
   - {type: variant, offset: 16, length: 0, content: '', SBCK: 字注二千一百七字}
   - {type: punctuation, offset: 24, content: /, id: KR5d0054_krp_000-bkkpn6}
@@ -789,4 +791,4 @@ markers:
   - {type: variant, offset: 827, length: 0, content: '', SBCK: 國學新山海卷帙殽混行列牽聮尚多譌舛閣老彭先生嘗是正之予手為緬校以便檢閲若正未正猶有望於博雅君子成化庚寅春正月榖旦後學古呉陳鑑緝熙識}
   - {type: page-break, offset: 827, content: '', id: KR5d0054_SBCK_000-8b}
   back: []
-hash: sha256:53da3aa9be3fbc555eb8842381324e84479990a2fdc79187ddf2ca3632ad9aac
+hash: sha256:a8fabddc17fce0d7075ae3331d892fec3fefcfe68c32ecce1355927112b0d523
